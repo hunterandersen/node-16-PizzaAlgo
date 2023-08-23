@@ -8,4 +8,6 @@
     - Pick delivery or pickup
     - Pick delivery
     - Told them what pizzas we want
+    - Wait for pizza to arrive
     - Pay them money
+    - If pizza did not arrive, cry
